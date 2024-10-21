@@ -5,10 +5,15 @@ To study and implement stack operations.
 # Theory:
 A stack is a sequential data structure that follows the concept of the Last In, First Out (LIFO) rule, which states that the last item to be inserted into the structure is the first one to exit it. This is similar to a stack of plates where one can only remove the plate which was most recently placed on the stack – the top plate.
 Stack operations are:
+
 → Push operation: Insert an item onto the stack section.
+
 → Pop operation: Remove an item from the stack section, from the top layer.
+
 → Peek Operation: Give the content of the top cell without changing it.
+
 → IsEmpty: Checks whether the stack has any elements.
+
 → IsFull: Checks whether the stack has reached its maximum capacity.
 
 
